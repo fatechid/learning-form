@@ -7,5 +7,5 @@ Application with [Land.io, Argon Dashboard &amp; Colorlib] Framework
   </a>
 </p>
 
-<h3 align="left" href="https://laravel.com/docs/7.x/installation">Read the Laravel Documentation here</h3>
+<a href="https://laravel.com/docs/7.x/installation"> <h3 align="left">Read the Laravel Documentation here</h3></a>
 
